@@ -1,7 +1,7 @@
 
 # Description
 Thanks Can Han @ SJTU for pointing out the EEGDepthAttention parameter update issue, which has been fixed.  
-Uploaded the model from the paper.
+Uploaded the model from the paper.  
 I will compare the effect of DepthAttention module based on backpropagation and DepthAttention module without backpropagation on the results of different datasets, and the results will be uploaded later.  
 Code for paper, [LMDA-Net: A lightweight multi-dimensional attention network for general EEG-based brain-computer interface paradigms and interpretability](https://arxiv.org/pdf/2303.16407.pdf)
 - Provided the model required in the paper
