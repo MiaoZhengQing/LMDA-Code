@@ -57,8 +57,6 @@ class LMDA(nn.Module):
         k = 7
         adaptive_pool = nn.AdaptiveAvgPool2d((1, W))
         conv = nn.Conv2d(1, 1, kernel_size=(k, 1), padding=(k//2, 0), bias=True).to(x.device)  # original kernel k
-        nn.init.xavier_uniform_(conv.weight)
-        nn.init.constant_(conv.bias, 0)
         softmax = nn.Softmax(dim=-2)
         x_pool = adaptive_pool(x)
         x_transpose = x_pool.transpose(-2, -3)
