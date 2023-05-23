@@ -6,7 +6,7 @@ I will compare the effect of DepthAttention module based on backpropagation and 
 Code for paper, [LMDA-Net: A lightweight multi-dimensional attention network for general EEG-based brain-computer interface paradigms and interpretability](https://arxiv.org/pdf/2303.16407.pdf)
 - Provided the model required in the paper
 - Code required for the interpretable algorithms used in the paper is provided
-- (2023-5-23)Neuroimage was resubmitted after a minor overhaul, adding some more detailed explanations
+- (2023-5-23)LMDA was resubmitted after a minor overhaul to Meuroimage, adding some more detailed explanations
 - Unoptimized code, under continuous updates.
 
 # Requirements
