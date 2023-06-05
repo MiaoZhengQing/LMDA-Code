@@ -1,4 +1,7 @@
 
+# Accepted by Neuroimage
+https://doi.org/10.1016/j.neuroimage.2023.120209 
+
 # Description
 Thanks Can Han @ SJTU for pointing out the EEGDepthAttention parameter update issue, which has been fixed.  
 Uploaded the model from the paper.  
