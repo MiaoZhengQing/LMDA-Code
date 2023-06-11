@@ -18,6 +18,13 @@ My doctoral research focuses on the deep integration of artificial neural networ
 In the future, I hope to collaborate with internationally renowned research groups to further explore the applications of lightweight artificial neural networks in BCI. My research strengths in this field lie in the deep integration of digital signal processing, machine learning, deep learning, and neuroscience systems. I possess strong problem-solving abilities and have a solid foundation in mathematics and programming. I am comfortable working in an all-English office environment and capable of independently completing research tasks in this field. Additionally, I have previous experience in research on autonomous driving platforms, which has provided me with knowledge in areas such as computer vision and circuitry. I also possess strong teamwork skills.
 If your research group is seeking to recruit a postdoctoral researcher in this field, I would greatly appreciate the opportunity for an interview. (mzq@tju.edu.cn)
 
+## Results
+- ![image](https://github.com/MiaoZhengQing/LMDA-Code/assets/116713490/b8327d97-6f55-4ac1-8add-912a3feceff8)
+- ![8589280dcb2fceae77bbb632240d027](https://github.com/MiaoZhengQing/LMDA-Code/assets/116713490/cbfede5b-9a45-46a4-95a6-f67f9ba0f15e)
+-![4bbf01791520f5e47b32826614a38e8](https://github.com/MiaoZhengQing/LMDA-Code/assets/116713490/fb0f4bb7-c7a1-4f4c-964b-cbd3bea326e3)
+- ![b59ce60a13237ed9a2947155b7d9b3a](https://github.com/MiaoZhengQing/LMDA-Code/assets/116713490/a162dfc7-ded0-4629-822d-d4ff3acd8355)
+
+
 # Requirements
 - Python == 3.6 or higher
 - Pytorch == 1.10 or higher
