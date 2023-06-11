@@ -1,6 +1,6 @@
 
 # Accepted by Neuroimage
-https://doi.org/10.1016/j.neuroimage.2023.120209 
+[LMDA-Net](https://doi.org/10.1016/j.neuroimage.2023.120209) 
 
 # Description
 Thanks Can Han @ SJTU for pointing out the EEGDepthAttention parameter update issue, which has been fixed.  
@@ -24,14 +24,14 @@ If your research group is seeking to recruit a postdoctoral researcher in this f
 - GPU is required. 
 
 # Models Implemented
-- [LMDA-Net](https://arxiv.org/pdf/2303.16407.pdf)
+- [LMDA-Net](https://doi.org/10.1016/j.neuroimage.2023.120209) 
 - [EEGNet](https://github.com/vlawhern/arl-eegmodels)
 - [ShallowConvNet](https://github.com/TNTLFreiburg/braindecode)
 
 # Related works
 - This paper is a follow-up version of [SDDA](https://arxiv.org/pdf/2202.09559.pdf), the preprocessing method is inherited from SDDA.
 - This paper is followed by the work of  [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf), which investigates the application of time-space-frequency feature fusion methods to 3-lead motion imagery. [Code of TSFF](https://github.com/MiaoZhengQing/TSFF)
-- [SDDA](https://arxiv.org/pdf/2202.09559.pdf), [LMDA-Net](https://arxiv.org/pdf/2303.16407.pdf) and [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf) are all under review,  the arxiv  is an early version, the final manuscript will be different. 
+- [SDDA](https://arxiv.org/pdf/2202.09559.pdf), [LMDA-Net](https://doi.org/10.1016/j.neuroimage.2023.120209) and [Time-space-frequency feature Fusion for 3-channel motor imagery classification](https://arxiv.org/pdf/2304.01461.pdf) are all under review,  the arxiv  is an early version, the final manuscript will be different. 
 
 # Paper Citation
 If you use this code in a scientific publication, please cite us as:  
