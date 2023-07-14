@@ -10,6 +10,7 @@ Code for paper, [LMDA-Net: A lightweight multi-dimensional attention network for
 - Provided the model required in the paper
 - Code required for the interpretable algorithms used in the paper is provided
 - Unoptimized code, under continuous updates.
+- The code for preprocessingreferences [braindecode](https://github.com/braindecode/braindecode), but with some streamlining. In the future, I hope to release a scientific version of braindecode, focusing on preprocessing for different datasets. 
 
 ## Important Statement
 This is my first work on designing a transformer specifically for EEG. The preliminary experiments for a related project have been conducted, but due to the pressing deadline of my doctoral thesis, I have had to temporarily pause this aspect of my work. After October 2023, I hope to continue researching this topic if given the opportunity (That's when I might visit the University of Vienna). 
